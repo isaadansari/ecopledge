@@ -1,6 +1,4 @@
-# ecopledge
-
-## Plastic-Less Planet Initiative 
+# ecopledge - Plastic-Less Planet Initiative 
 
 
 # LIST OF ITEMS
