@@ -1,7 +1,7 @@
 # EcoPledge - Plastic-Less Planet Initiative 
 
 
-# LIST OF ITEMS
+# List of Items Causing pollution
 
 * Single-use plastic bags
 * Plastic bottles
